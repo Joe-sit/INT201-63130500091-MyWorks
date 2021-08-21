@@ -16,9 +16,19 @@ h1 {
 h3 {
     font-size: 35px;
 }
-p{
+
+p {
     font-size: 25px;
-   
+}
+
+pre{
+    background-color: grey;
+    color: aliceblue;
+    display: block;
+    white-space: pre;
+    margin: 1em 0px;
+    font-size: 20px;
+
 }
 
 .js-color {
