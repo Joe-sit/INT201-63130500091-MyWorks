@@ -22,13 +22,15 @@ p {
 }
 
 pre{
-    background-color: grey;
-    color: aliceblue;
+    background-color: rgb(236, 236, 236);
     display: block;
     white-space: pre;
     margin: 1em 0px;
     font-size: 20px;
-
+}
+pre p {
+    padding-left: 1em;
+    color: rgb(26, 26, 26);
 }
 
 .js-color {
