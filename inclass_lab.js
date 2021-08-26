@@ -69,5 +69,20 @@ const allZodiac = ['monkey',
                    'sheep'];
 
 console.log(allZodiac[(year % 12)]);
+console.log('-----');
 
-
+//Solution #3
+let objectZodiac = { 0: 'monkey',
+                     1: 'rooster',
+                     2: 'dog',
+                     3: 'pig',
+                     4: 'rat',
+                     5: 'ox',
+                     6: 'tiger',
+                     7: 'rabit',
+                     8: 'dragon',
+                     9: 'snake',
+                     10: 'horse',
+                     11: 'sheep'
+}
+console.log(`Your zodiac is "${objectZodiac[year % 12]}"`);
