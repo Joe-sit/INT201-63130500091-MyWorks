@@ -1,3 +1,4 @@
+//ทบทวนการใช้ if else
 function getBMI(weight, height) {
     let BMI = weight / (height * height);
     if (BMI <= 18.5) {
