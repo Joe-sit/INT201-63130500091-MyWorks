@@ -1,3 +1,4 @@
+// Item 1:  Reverse String
 function reverseString(word) {
     if (word === "")
         return "";
@@ -5,7 +6,7 @@ function reverseString(word) {
         return reverseString(word.substr(1)) + word.charAt(0);
 }
 console.log(reverseString('Hello World'));
-
+// Item 2: Replace Vowels with '*'
 function replaceVoweils(word) {
     return word.replace('a', '*')
                .replace('e', '*')
@@ -14,7 +15,7 @@ function replaceVoweils(word) {
                .replace('u', '*');
 }
 console.log(replaceVoweils("Hello"),replaceVoweils("World"));
-
+// Item 3: Count Vowels in String
 function countVowels(word){
     let count = 0;
     let vowels = 'aeiouAEIOU';
