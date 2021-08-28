@@ -6,6 +6,11 @@ function reverseString(word) {
         return reverseString(word.substr(1)) + word.charAt(0);
 }
 console.log(reverseString('Hello World'));
+
+//let y = 'Have a good day';
+//console.log(y.charAt(0));
+//console.log(y.substr(1));
+
 // Item 2: Replace Vowels with '*'
 function replaceVoweils(word) {
     return word.replace('a', '*')
@@ -15,6 +20,10 @@ function replaceVoweils(word) {
                .replace('u', '*');
 }
 console.log(replaceVoweils("Hello"),replaceVoweils("World"));
+
+//let yikes = 'Boys';
+//console.log(yikes.replace('s','z').replace('o','0'));
+
 // Item 3: Count Vowels in String
 function countVowels(word){
     let count = 0;
@@ -29,3 +38,8 @@ function countVowels(word){
 }
 
 console.log(countVowels("Hello World"));
+
+// let str = 'aeiou';
+// let randomStr = 'Have a good day';
+// let vowels = 'aeiou';
+// console.log(vowels.indexOf(randomStr[5]));
