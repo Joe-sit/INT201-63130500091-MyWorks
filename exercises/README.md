@@ -18,3 +18,6 @@ function getBMI(weight, height) {
 }
 getBMI(79, 1.75);
 ```
+``` output 
+
+```
