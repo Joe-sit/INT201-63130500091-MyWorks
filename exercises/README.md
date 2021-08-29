@@ -18,6 +18,7 @@ function getBMI(weight, height) {
 }
 getBMI(79, 1.75);
 ```
+### output 
 ``` output 
-
+25.79591836734694 ": อ้วน"
 ```
