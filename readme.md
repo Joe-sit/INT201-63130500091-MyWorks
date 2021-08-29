@@ -19,3 +19,7 @@ This repository is where I keep track of my JavaScript progress.
 has a name and a value (either a primitive value or another object)
 * a special kind of object, known as an array, that represents an ordered collection of numbered 
 values
+
+```{R}
+Code here
+```
