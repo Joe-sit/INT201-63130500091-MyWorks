@@ -1,7 +1,7 @@
 # EXERCISES SOURCE CODE
 Including inclass laboratory files and my own exploration about javascript will me paste write here  :sparkles::triangular_flag_on_post:
 ### exercise01 | Simple BMI Calculator 
-```{R}
+```ruby
 function getBMI(weight, height) {
     let BMI = weight / (height * height);
     if (BMI <= 18.5) {
