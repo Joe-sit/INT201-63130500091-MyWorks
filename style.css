@@ -21,13 +21,14 @@ p {
     font-size: 25px;
 }
 
-pre{
+pre {
     background-color: rgb(236, 236, 236);
     display: block;
     white-space: pre;
     margin: 1em 0px;
     font-size: 20px;
 }
+
 pre p {
     padding-left: 1em;
     color: rgb(26, 26, 26);
@@ -36,3 +37,15 @@ pre p {
 .js-color {
     color: #ffc400c9;
 }
+
+.type-section{
+    font-size: 1.5em;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+/*.types-header li{
+    font-size: .5em;
+    float: right;
+    text-decoration: none;
+}*/
