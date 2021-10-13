@@ -27,15 +27,15 @@ function findVowels(letter) {
 
 function stringOps(yourString, userMenu) {
   let resultString = '';
-  if (userMenu === 1) {
+  if (userMenu === 0) {
     for (let i = yourString.length - 1; i >= 0; i--) {
       resultString += yourString[i];
     }
-  } else if (userMenu === 2) {
+  } else if (userMenu === 1) {
     for (let i = 0; i < yourString.length; i++) {
       resultString += findVowels(yourString[i]);
     }
-  } else if (userMenu === 3) {
+  } else if (userMenu === 2) {
     resultString = 0;
     for (let i = 0; i < yourString.length; i++) {
       if (findVowels(yourString[i]) === '*') {
