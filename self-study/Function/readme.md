@@ -56,3 +56,39 @@ function (a,b){
   return a+b+tax;
 }
 ```
+### In Class : ลองแปลงเป็น Arrow Function
+```ruby
+// traditional
+const myFunc1 = function (instructor1, ta1, ...students1) {
+    let greeting1 = 'Hello';
+    return students1;
+};
+
+// arrow
+const myFunc2 = (instructor2, ta2, ...students2) => { let greeting2 = 'Hello'; return students2; };
+
+// traditional
+function echo1(text1) {
+    return text1;
+}
+
+// arrow
+const echo2 = text2 => text2;
+
+// traditional
+function sayHi1(greeting1, name1) {
+    return `${greeting1},${name1}`;
+}
+// arrow
+const sayHi2 = (greeting2, name2) => `${greeting2},${name2}`;
+
+// traditional
+function getClass1() {
+    return 'INT201';
+}
+
+// arrow
+const getClass2 = () => 'INT201';
+
+```
+
