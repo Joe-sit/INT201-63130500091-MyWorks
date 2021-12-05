@@ -1,3 +1,37 @@
+## Higher Order Function
+- เป็น function ที่รับ parameter เป็น function จากนั้นก็ return function นั้น
+```ruby
+function operator (n1,n2, fn){
+  return fn(n1,n2);
+}
+```
+
+## Function Scope and Nested Function
+```ruby
+let mid = 20;
+let final = 5;
+
+let fname = 'james';
+
+function sum(){
+  return mid + final;
+}
+console.log(`#1 sum : ${sum()}`); // 25
+mid = 10;
+console.log(`#2 sum : ${sum()}`); // 15
+
+function getScore(){
+  let mid = 10;
+  let final = 30;
+  
+  function yourScore(){
+    return fname + 'scored' + (mid+final);  
+  }
+ return yourScore();
+ }
+console.log(getScore()); // james scored 40
+```
+
 ## Arrow Function Expression
 - เป็นการลดรูปให้ code เราดูสั้นลง
 - เป็นทางเลือก ซึ่งใช้ได้ในบางสถานการณ์ เช่น method ต่างๆของ array 
