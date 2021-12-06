@@ -16,3 +16,5 @@ This repository is where I keep track of my JavaScript progress.
 [Learning DOM files #1](https://github.com/Joe-sit/INT201-63130500091-MyWorks/tree/master/self-study/DOM)
 # Event
 [Learning Event files](https://github.com/Joe-sit/INT201-63130500091-MyWorks/tree/master/self-study/Event)
+# Client Storage
+[Learning Client Storage files](https://github.com/Joe-sit/INT201-63130500091-MyWorks/tree/master/self-study/Client%20Storage)
