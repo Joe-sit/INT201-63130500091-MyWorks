@@ -1,11 +1,11 @@
 # INT201 JavaScript Practices
 This repository is where I keep track of my JavaScript progress.
 # Exercise
-[BMI app](https://github.com/Joe-sit/INT201-63130500091-MyWorks/tree/master/exercises/BMI) <br>
-[HighLow app](https://github.com/Joe-sit/INT201-63130500091-MyWorks/tree/master/exercises/HighLow) <br>
-[NumberOps app](https://github.com/Joe-sit/INT201-63130500091-MyWorks/tree/master/exercises/NumberOpsMenu) <br>
-[StringOps app](https://github.com/Joe-sit/INT201-63130500091-MyWorks/tree/master/exercises/StringOpsMenu) <br>
-[Zodiac app](https://github.com/Joe-sit/INT201-63130500091-MyWorks/tree/master/exercises/Zodiac) <br>
+[BMI app](https://github.com/Joe-sit/INT201-63130500091-MyWorks/tree/master/self-study/BMI) <br>
+[HighLow app](https://github.com/Joe-sit/INT201-63130500091-MyWorks/tree/master/self-study/HighLow) <br>
+[NumberOps app](https://github.com/Joe-sit/INT201-63130500091-MyWorks/tree/master/self-study/NumberOpsMenu) <br>
+[StringOps app](https://github.com/Joe-sit/INT201-63130500091-MyWorks/tree/master/self-study/StringOpsMenu) <br>
+[Zodiac app](https://github.com/Joe-sit/INT201-63130500091-MyWorks/tree/master/self-study/Zodiac) <br>
 
 
 # Function
