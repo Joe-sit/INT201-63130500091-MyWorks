@@ -35,3 +35,7 @@ function changeColor(element){
     element.style.backgroundColor = '#FFC0CB';
 };
 
+let countBody = document.querySelector('body');
+console.log(countBody.childElementCount);
+
+
