@@ -13,4 +13,4 @@ This repository is where I keep track of my JavaScript progress.
 # Array
 [Learning Array files](https://github.com/Joe-sit/INT201-63130500091-MyWorks/tree/master/self-study/Array)
 # DOM
-[Learning DOM files #1](https://github.com/Joe-sit/INT201-63130500091-MyWorks/tree/master/self-study/DOM/dom1)
+[Learning DOM files #1](https://github.com/Joe-sit/INT201-63130500091-MyWorks/tree/master/self-study/DOM)
