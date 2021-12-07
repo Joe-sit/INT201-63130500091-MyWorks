@@ -1,4 +1,5 @@
 ## Map
+- เป็นการนำค่าใน array แต่ละตัวเข้าไปใช้ใน function
 ```ruby
 let studentScores = [65,72,43,50,96];
 
